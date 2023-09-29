@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>About Me - Jeyhan</title>
+</head>
+<body>
+    <header>
+        <h1>Jehan Jurquina's World</h1>
+        <p>Welcome to my world!</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#interests">Interests</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello, I'm Jehan. I'm an IT student and musician. I love tackling challenges head-on and exploring new horizons.</p>
+    </section>
+    <section id="interests">
+        <h2>Interests</h2>
+        <p>My interests include:</p>
+        <ul>
+            <li>Coding and web development</li>
+            <li>Learning</li>
+            <li>Playing Instruments</li>
+            <li>Taking care of animals</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>If you want to connect, you can reach me at:</p>
+        <ul>
+            <li>Email: jehan.jurquina70@gmail.com</li>
+            <li>Twitter: <a href="https://twitter.com/jehan" target="_blank">@jeyhan</a></li>
+            <li>Instagram: <a href="https://www.instagram.com/jehan/" target="_blank">@jeyhandsomeee</a></li>
+        </ul>
+    </section>
+    <section id="portfolio">
+        <h2>My Hobbies</h2>
+        <div class="project">
+            <img src="https://media1.giphy.com/media/NU8tcjnPaODTy/giphy.gif?cid=ecf05e47hnmw2x2lv8ugu36yj73u9iluvixcm5js1dbphdmb&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Project 1">
+            <h3>Learn and Play different kinds of Instruments</h3>
+            <p>I've been learning instruments since I was a little girl.</p>
+        </div>
+        <div class="project">
+            <img src="https://media3.giphy.com/media/3o72EX5QZ9N9d51dqo/giphy.gif?cid=ecf05e472r38akmxch10h2d2wemyti7f8zb14aon59p1iyd3&ep=v1_gifs_search&rid=giphy.gif&ct=gx" alt="Project 2">
+            <h3>Playing with cats</h3>
+            <p>There's nothing more I love than playing with my cats!</p>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2023 Jeyhan</p>
+    </footer>
+</body>
+</html>
